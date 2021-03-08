@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋, my name is Aleksandr
+
+
+- [Dribbble](https://dribbble.com/AleksandrShchilkin)  
+- [Personal portfolio](https://shchilkin.design)
+- [LinkedIn](https://www.linkedin.com/in/aleksandrshchilkin/)
+- [Behance](https://www.behance.net/AleksandrShchilkin)
+
 
 <!--
 **CrazyRedKitten/crazyredkitten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
