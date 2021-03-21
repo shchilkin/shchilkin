@@ -1,6 +1,9 @@
 ### Hi there 👋, my name is Aleksandr
 
+#### Projects:
+- [Soft UI - an open-source design tool](https://softui.io)
 
+#### Social Links:
 - [Dribbble](https://dribbble.com/AleksandrShchilkin)  
 - [Personal portfolio](https://shchilkin.design)
 - [LinkedIn](https://www.linkedin.com/in/aleksandrshchilkin/)
