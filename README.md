@@ -1,12 +1,12 @@
 ### Hi there 👋, my name is Aleksandr
 
 #### Projects:
-- [UI Colors](https://softui.io) - Generate color palette from a single color
-- [Soft UI](https://softui.io) - An Open-source Design Tool for creating neumorphic css shadows
+- [UI Colors](https://softui.io) - 🚧 WIP: Generate color palette from a single color
+- [Soft UI](https://softui.io) - 🚧 WIP: Open-source Design Tool for creating neumorphic css shadows
 
 #### Social Links:
 - [Dribbble](https://dribbble.com/AleksandrShchilkin)  
-- [Personal portfolio](https://shchilkin.design)
+<!-- - [Personal portfolio](https://shchilkin.design) -->
 - [LinkedIn](https://www.linkedin.com/in/aleksandrshchilkin/)
 - [Behance](https://www.behance.net/AleksandrShchilkin)
 
