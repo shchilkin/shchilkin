@@ -1,7 +1,8 @@
 ### Hi there 👋, my name is Aleksandr
 
 #### Projects:
-- [Soft UI](https://softui.io) - An Open-source Design Tool
+- [UI Colors](https://softui.io) - Generate color palette from a single color
+- [Soft UI](https://softui.io) - An Open-source Design Tool for creating neumorphic css shadows
 
 #### Social Links:
 - [Dribbble](https://dribbble.com/AleksandrShchilkin)  
