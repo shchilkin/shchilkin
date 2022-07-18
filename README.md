@@ -1,6 +1,8 @@
 ### Hi there 👋, my name is Aleksandr
 
-#### Projects:
+I'm passionate about web development, open-source software and UI design. Currently working at Dream Broker Oy as a Junior Software Engineer.
+
+#### Personal projects:
 - [UI Colors](https://softui.io) - 🚧 WIP: Generate color palette from a single color
 - [Soft UI](https://softui.io) - 🚧 WIP: Open-source Design Tool for creating neumorphic css shadows
 
