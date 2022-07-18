@@ -6,9 +6,10 @@
 
 #### Social Links:
 - [Dribbble](https://dribbble.com/AleksandrShchilkin)  
-<!-- - [Personal portfolio](https://shchilkin.design) -->
 - [LinkedIn](https://www.linkedin.com/in/aleksandrshchilkin/)
 - [Behance](https://www.behance.net/AleksandrShchilkin)
+
+<!-- - [Personal portfolio](https://shchilkin.design) -->
 
 
 <!--
