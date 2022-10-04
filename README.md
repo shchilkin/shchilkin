@@ -1,6 +1,13 @@
 ### Hi there 👋, my name is Aleksandr
 
+#### About me
+
 I'm passionate about web development, open-source software and UI design. Currently working at Dream Broker Oy as a Junior Software Engineer.
+
+- 👨‍💻 I’m currently working on: Studying Kotlin and Android Development in order to support the team developing android project.
+- 📖 I’m currently learning: 3D modeling with Blender - [Best Blender Course](https://bestblendercourse.com).
+- 👨‍🎓 What I want to learn next: Study anvanced features of Next.js in order to improve my UI Colors Project.
+- 📫 How to reach me: `shchilkin@gmail.com`
 
 #### Personal projects:
 - [UI Colors](https://ui-colors-eight.vercel.app/#50ae6f) - 🚧 WIP: Generate color palette from a single color
@@ -18,14 +25,6 @@ I'm passionate about web development, open-source software and UI design. Curren
     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
   </a>
 </div>
-
-<!-- 
-- [Personal portfolio](https://shchilkin.design)
-- [Dribbble](https://dribbble.com/AleksandrShchilkin)  
-- [LinkedIn](https://www.linkedin.com/in/aleksandrshchilkin/)
-- [Behance](https://www.behance.net/AleksandrShchilkin)
--->
-
 
 <!--
 **CrazyRedKitten/crazyredkitten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
