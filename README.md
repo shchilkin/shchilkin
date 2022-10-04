@@ -2,11 +2,11 @@
 
 #### About me
 
-I'm passionate about web development, open-source software and UI design. Currently working at Dream Broker Oy as a Junior Software Engineer.
+I'm passionate about web development, open-source software and UI design. Currently working at [Dream Broker Oy](https://dreambroker.com) as a Junior Software Engineer.
 
 - 👨‍💻 I’m currently working on: Studying Kotlin and Android Development in order to support the team developing android project.
 - 📖 I’m currently learning: 3D modeling with Blender - [Best Blender Course](https://bestblendercourse.com).
-- 👨‍🎓 What I want to learn next: Study anvanced features of Next.js in order to improve my UI Colors Project.
+- 👨‍🎓 What I want to learn next: Study advanced features of Next.js in order to improve my UI Colors Project.
 - 📫 How to reach me: `shchilkin@gmail.com`
 
 #### Personal projects:
