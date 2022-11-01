@@ -12,6 +12,7 @@ I'm passionate about web development, open-source software and UI design. Curren
 #### Personal projects:
 - [UI Colors](https://ui-colors-eight.vercel.app/#50ae6f) - 🚧 WIP: Generate color palette from a single color
 - [Soft UI](https://softui.io) - 🚧 WIP: Open-source Design Tool for creating neumorphic css shadows
+- [Portfolio Website](https://shchilkin.design) - Simple software engineer portfolio website
 
 #### Social Links:
 <div id="badges">
