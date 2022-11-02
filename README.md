@@ -13,7 +13,9 @@ I'm passionate about web development, open-source software and UI design. Curren
 - [UI Colors](https://ui-colors-eight.vercel.app/#50ae6f) - 🚧 WIP: Generate color palette from a single color
 - [Soft UI](https://soft-ui.vercel.app/#FAFAFA) - 🚧 WIP: Open-source Design Tool for creating neumorphic css shadows
 - [Portfolio Website](https://shchilkin.design) - Clean, modern software engineer portfolio website
+- [Color Processing Library](https://github.com/shchilkin/color-processing-library) - Zero dependency library for color processing written in javascript. Available at [NPM](https://www.npmjs.com/package/color-processing-library).
 - [Spotify Clone](https://frontend-masters-nextjs-fullstack.vercel.app/signin) - A fullstack web application built with Typescript, React, Next.js, Prisma ORM, Postgresql. Created during Frontend Masters [course](https://frontendmasters.com/courses/fullstack-app-next/).❗️Note: App credentials are available upon request.
+
 
 #### Social Links:
 
