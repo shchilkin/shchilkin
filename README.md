@@ -9,6 +9,7 @@ I'm passionate about **building** web applications, **creating** open-source sof
   - Study advanced features of Next.js in order to improve my UI Colors Project.
   - end-to-end testing with [Cypress](https://www.cypress.io)
   - WebGL and Three.js [course](https://threejs-journey.com) for creating 3D websites. 
+  - [basic](https://frontendmasters.com/courses/canvas-webgl/) and [advanced](https://frontendmasters.com/courses/webgl-shaders/) creative coding with canvas & WebGL courses.
 * 📫 How to reach me: `shchilkin@gmail.com`
 
 ### Personal projects:
