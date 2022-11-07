@@ -6,7 +6,7 @@ I'm passionate about **building** web applications, **creating** open-source sof
 * 👨‍💻 I’m currently working on: Studying Kotlin and Android Development (Jetpack Compose) in order to support the team developing android project.
 * 📖 I’m currently learning: 3D modeling with Blender - [Best Blender Course](https://bestblendercourse.com).
 * 👨‍🎓 What I want to learn next: 
-  - Study advanced features of Next.js in order to improve my UI Colors Project.
+  - Study advanced features of Next.js (server-side part) in order to improve my UI Colors Project.
   - end-to-end testing with [Cypress](https://www.cypress.io)
   - WebGL and Three.js [course](https://threejs-journey.com) for creating 3D websites. 
   - [basic](https://frontendmasters.com/courses/canvas-webgl/) and [advanced](https://frontendmasters.com/courses/webgl-shaders/) creative coding with canvas & WebGL courses.
