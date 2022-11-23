@@ -2,7 +2,7 @@
 
 ### About me
 
-I'm passionate about **building** web applications, **creating** open-source software and **crafting** UI design concepts. Currently working at [Dream Broker Oy](https://dreambroker.com) as a Junior Software Engineer.
+I'm passionate about **building** web applications, **creating** open-source software and **crafting** UI design concepts. Currently working at [Dream Broker Oy](https://dreambroker.com) as a Software Engineer.
 * 👨‍💻 I’m currently working on: Studying Kotlin and Android Development (Jetpack Compose) in order to support the team developing android project.
 * 📖 I’m currently learning: 3D modeling with Blender - [Best Blender Course](https://bestblendercourse.com).
 * 👨‍🎓 What I want to learn next: 
