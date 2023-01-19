@@ -24,7 +24,7 @@ I'm passionate about **building** web applications, **creating** open-source sof
 
 ### Assignments:
 - [**Delivery Fee Calculator**](https://github.com/shchilkin/wolt-delivery-fee-calculator) - A frontend application for calculating delivery price using provided specifications. Done as a pre-assignment for summer 2023 Wolt engineering internship.❗Note: Private until 7th of Febrary 
-- [**Birdnest**](https://github.com/shchilkin/reaktor-birdnest) - A fullstack web application, which display information about pilots, who breach no drone area. Done as a pre-assignment for Reaktor 2023 summer internship.
+- [**Birdnest**](https://reaktor-birdnest-frontend-gkmin.ondigitalocean.app/) - A fullstack web application, which display information about pilots, who breach no drone area. Done as a pre-assignment for Reaktor 2023 summer internship.
 
 
 ### Social Links:
