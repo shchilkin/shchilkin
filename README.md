@@ -4,7 +4,7 @@
 
 I'm passionate about **building** web applications, **creating** open-source software and **crafting** UI design concepts. Currently working at [Dream Broker Oy](https://dreambroker.com) as a Junior Software Engineer (Web -> Android).
 * 👨‍💻 I’m currently working on: Studying Kotlin and Android Development (Jetpack Compose) in order to support the team developing android project.
-* 📖 I’m currently learning: 3D modeling with Blender - [CUBICITY - Creating and Utilizing Asset Libraries with Blender](https://cgcookie.com/courses/cubicity-creating-and-utilizing-asset-libraries-with-blender).
+* 📖 I’m currently learning: [Blender Basics](https://smirnov.school/bb/) Course by [Smirnov School](https://smirnov.school).
 * 👨‍🎓 What I want to learn next: 
   - Study advanced features of Next.js (server-side part) in order to improve my UI Colors Project.
   - end-to-end testing with [Cypress](https://www.cypress.io)
