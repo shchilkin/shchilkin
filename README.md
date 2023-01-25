@@ -1,7 +1,8 @@
 ## Hi there 👋, my name is Aleksandr
 
 ### About me
-I'm passionate about **building** web applications, **creating** open-source software and **crafting** UI design concepts. Currently working at [Dream Broker Oy](https://dreambroker.com) as a Junior Software Engineer (Web -> Android).
+
+I'm a junior software engineer at [Dream Broker Oy](https://dreambroker.com), where I work on [#One](https://dreambroker.com/one/) Android and Web clients. In my free time I'm passionate about **building** web applications, **creating** open-source software and **crafting** UI design concepts.
 
 #### What I'm working on 👨‍💻
 - Currently working on: Studying Kotlin and Android Development (Jetpack Compose) in order to support the team developing android project.
