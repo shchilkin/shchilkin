@@ -2,10 +2,18 @@
 
 ### About me
 
-I'm a junior software engineer at [Dream Broker Oy](https://dreambroker.com), where I work on [#One](https://dreambroker.com/one/) Android and Web clients. In my free time I'm passionate about **building** web applications, **creating** open-source software and **crafting** UI design concepts.
+I'm a Junior Software Engineer at [Dream Broker Oy](https://dreambroker.com), where I work on building and maintaining the [#One](https://dreambroker.com/one/) web and android clients. I'm passionate about web development, open-source software, and UI design.
 
 #### What I'm working on 👨‍💻
-- Currently working on: Studying Kotlin and Android Development (Jetpack Compose) in order to support the team developing android project.
+- As a Junior Software Engineer at Dream Broker Oy, my main responsibilities include: 
+    - Developing new features and maintaining existing features for the #One web and android clients.
+    - Collaborating with the team to design and implement new features.
+    - Writing clean, maintainable, and efficient code.
+- **Technologies** I use for development: Jira, Insomnia HTTP Client, Git.
+    - **Web development**: TypeScript, Node.js, React, Next.js, SWR, xState. 
+    - **Android development**: Kotlin, Jetpack Compose, Dagger Hilt, Room, Retrofit3, MVVM, Kotlin Coroutines.
+
+
 
 #### What I'm learning 📖 
 - [Blender Basics](https://smirnov.school/bb/) Course by [Smirnov School](https://smirnov.school).
@@ -20,17 +28,7 @@ I'm a junior software engineer at [Dream Broker Oy](https://dreambroker.com), wh
 #### How to reach me 📫 
 - Email: `shchilkin@gmail.com`
 - LinkedIn: [https://www.linkedin.com/in/aleksandrshchilkin](https://www.linkedin.com/in/aleksandrshchilkin)
-<!-- 
-I'm passionate about **building** web applications, **creating** open-source software and **crafting** UI design concepts. Currently working at [Dream Broker Oy](https://dreambroker.com) as a Junior Software Engineer (Web -> Android).
-* 👨‍💻 I’m currently working on: Studying Kotlin and Android Development (Jetpack Compose) in order to support the team developing android project.
-* 📖 I’m currently learning: [Blender Basics](https://smirnov.school/bb/) Course by [Smirnov School](https://smirnov.school).
-* 👨‍🎓 What I want to learn next: 
-  - Study advanced features of Next.js (server-side part) in order to improve my UI Colors Project.
-  - end-to-end testing with [Cypress](https://www.cypress.io)
-  - [Storybook](https://storybook.js.org) for developing and testing UI components in isolation
-  - WebGL and Three.js [course](https://threejs-journey.com) for creating 3D websites. 
-  - [basic](https://frontendmasters.com/courses/canvas-webgl/) and [advanced](https://frontendmasters.com/courses/webgl-shaders/) creative coding with canvas & WebGL courses.
-* 📫 How to reach me: `shchilkin@gmail.com` -->
+
 
 ### Personal projects:
 
@@ -68,17 +66,3 @@ I'm passionate about **building** web applications, **creating** open-source sof
   </a>
 </div>
 
-<!--
-**CrazyRedKitten/crazyredkitten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
