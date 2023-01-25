@@ -28,8 +28,11 @@ I'm passionate about **building** web applications, **creating** open-source sof
 
 ### Assignments:
 
+#### 2023
 - [**Delivery Fee Calculator**](https://github.com/shchilkin/wolt-delivery-fee-calculator) - A frontend application for calculating delivery price using provided specifications. Done as a pre-assignment for summer 2023 Wolt engineering internship.❗Note: Private until 7th of Febrary 
 - [**Birdnest**](https://reaktor-birdnest-frontend-gkmin.ondigitalocean.app/) - A fullstack web application, which display information about pilots, who breach no drone area. Done as a pre-assignment for Reaktor 2023 summer internship.
+#### 2021
+- [**Tic-tac-toe**](https://shchilkin.github.io/tic-tac-toe/) - Tic-tac-toe game implementation done with Typescript and React.
 
 
 ### Social Links:
