@@ -66,6 +66,6 @@ I'm a Junior Software Engineer at [Dream Broker Oy](https://dreambroker.com), wh
   </a>
 </div>
 
-## Summary
+<!-- ## Summary
 
-I am a Junior Software Engineer with **experience in web and android development**. I have a passion for **building web applications**, **creating open-source software**, and **crafting UI design concepts**. My experience includes working on web projects using technologies such as **JavaScript, TypeScript, React, Next.js**, and more. And for android development, I have experience with **Kotlin, Jetpack Compose, Dagger Hilt, Room, Retrofit3, MVVM, and Kotlin Coroutines**. I have strong skills in **problem solving, troubleshooting and debugging**, and a track record of **delivering high-quality and efficient code**.
+I am a Junior Software Engineer with **experience in web and android development**. I have a passion for **building web applications**, **creating open-source software**, and **crafting UI design concepts**. My experience includes working on web projects using technologies such as **JavaScript, TypeScript, React, Next.js**, and more. And for android development, I have experience with **Kotlin, Jetpack Compose, Dagger Hilt, Room, Retrofit3, MVVM, and Kotlin Coroutines**. I have strong skills in **problem solving, troubleshooting and debugging**, and a track record of **delivering high-quality and efficient code**. -->
