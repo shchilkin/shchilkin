@@ -1,7 +1,25 @@
 ## Hi there 👋, my name is Aleksandr
 
 ### About me
+I'm passionate about **building** web applications, **creating** open-source software and **crafting** UI design concepts. Currently working at [Dream Broker Oy](https://dreambroker.com) as a Junior Software Engineer (Web -> Android).
 
+#### What I'm working on 👨‍💻
+- Currently working on: Studying Kotlin and Android Development (Jetpack Compose) in order to support the team developing android project.
+
+#### What I'm learning 📖 
+- [Blender Basics](https://smirnov.school/bb/) Course by [Smirnov School](https://smirnov.school).
+
+#### What I want to learn next 👨‍🎓
+  - Study advanced features of Next.js (server-side part) in order to improve my UI Colors Project.
+  - end-to-end testing with [Cypress](https://www.cypress.io)
+  - [Storybook](https://storybook.js.org) for developing and testing UI components in isolation
+  - WebGL and Three.js [course](https://threejs-journey.com) for creating 3D websites. 
+  - [basic](https://frontendmasters.com/courses/canvas-webgl/) and [advanced](https://frontendmasters.com/courses/webgl-shaders/) creative coding with canvas & WebGL courses.
+
+#### How to reach me 📫 
+- Email: `shchilkin@gmail.com`
+- LinkedIn: [https://www.linkedin.com/in/aleksandrshchilkin](https://www.linkedin.com/in/aleksandrshchilkin)
+<!-- 
 I'm passionate about **building** web applications, **creating** open-source software and **crafting** UI design concepts. Currently working at [Dream Broker Oy](https://dreambroker.com) as a Junior Software Engineer (Web -> Android).
 * 👨‍💻 I’m currently working on: Studying Kotlin and Android Development (Jetpack Compose) in order to support the team developing android project.
 * 📖 I’m currently learning: [Blender Basics](https://smirnov.school/bb/) Course by [Smirnov School](https://smirnov.school).
@@ -11,7 +29,7 @@ I'm passionate about **building** web applications, **creating** open-source sof
   - [Storybook](https://storybook.js.org) for developing and testing UI components in isolation
   - WebGL and Three.js [course](https://threejs-journey.com) for creating 3D websites. 
   - [basic](https://frontendmasters.com/courses/canvas-webgl/) and [advanced](https://frontendmasters.com/courses/webgl-shaders/) creative coding with canvas & WebGL courses.
-* 📫 How to reach me: `shchilkin@gmail.com`
+* 📫 How to reach me: `shchilkin@gmail.com` -->
 
 ### Personal projects:
 
