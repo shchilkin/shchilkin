@@ -26,7 +26,7 @@ I'm passionate about **building** web applications, **creating** open-source sof
 - [**Dinosaurs**](https://shchilkin.github.io/dinosaurs/) - Object-oriented programming project, created to display user-generated infographic. Was done as part of the Udacity Intermediate Javascript [Nanodegree](https://www.udacity.com/course/intermediate-javascript-nanodegree--nd032).
 - [**Spotify Clone**](https://frontend-masters-nextjs-fullstack.vercel.app/signin) - A fullstack web application built with Typescript, React, Next.js, Prisma ORM, Postgresql. Created during Frontend Masters [course](https://frontendmasters.com/courses/fullstack-app-next/).❗️Note: App credentials are available upon request.
 
-### Assignments:
+### Test assignments:
 
 #### 2023
 - [**Delivery Fee Calculator**](https://github.com/shchilkin/wolt-delivery-fee-calculator) - A frontend application for calculating delivery price using provided specifications. Done as a pre-assignment for summer 2023 Wolt engineering internship.❗Note: Private until 7th of Febrary 
