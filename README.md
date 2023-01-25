@@ -19,10 +19,15 @@ I'm passionate about **building** web applications, **creating** open-source sof
 - [**Soft UI**](https://soft-ui.vercel.app/#FAFAFA) - 🚧 WIP: Open-source Design Tool for creating neumorphic css shadows
 - [**Portfolio Website**](https://shchilkin.design) - Clean, modern software engineer portfolio website
 - [**Color Processing Library**](https://github.com/shchilkin/color-processing-library) - 📦 Zero dependency library for color processing written in javascript. Available at [NPM](https://www.npmjs.com/package/color-processing-library).
-- [**Dinosaurs**](https://shchilkin.github.io/dinosaurs/) - Object-Oriented Programming project was done as part of the Udacity Intermediate Javascript Nanodegree.
+
+
+### Course work: 
+
+- [**Dinosaurs**](https://shchilkin.github.io/dinosaurs/) - Object-oriented programming project, created to display user-generated infographic. Was done as part of the Udacity Intermediate Javascript [Nanodegree](https://www.udacity.com/course/intermediate-javascript-nanodegree--nd032).
 - [**Spotify Clone**](https://frontend-masters-nextjs-fullstack.vercel.app/signin) - A fullstack web application built with Typescript, React, Next.js, Prisma ORM, Postgresql. Created during Frontend Masters [course](https://frontendmasters.com/courses/fullstack-app-next/).❗️Note: App credentials are available upon request.
 
 ### Assignments:
+
 - [**Delivery Fee Calculator**](https://github.com/shchilkin/wolt-delivery-fee-calculator) - A frontend application for calculating delivery price using provided specifications. Done as a pre-assignment for summer 2023 Wolt engineering internship.❗Note: Private until 7th of Febrary 
 - [**Birdnest**](https://reaktor-birdnest-frontend-gkmin.ondigitalocean.app/) - A fullstack web application, which display information about pilots, who breach no drone area. Done as a pre-assignment for Reaktor 2023 summer internship.
 
