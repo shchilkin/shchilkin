@@ -32,8 +32,8 @@ I'm a Junior Software Engineer at [Dream Broker Oy](https://dreambroker.com), wh
 
 ### Personal projects:
 
-- [**UI Colors**](https://ui-colors-eight.vercel.app/#50ae6f) - 🚧 WIP: Generate color palette from a single color
-- [**Soft UI**](https://soft-ui.vercel.app/#FAFAFA) - 🚧 WIP: Open-source Design Tool for creating neumorphic css shadows
+- [**UI Colors**](https://ui-colors-eight.vercel.app/#50ae6f) - 🚧 WIP: Generate color palette from a single color. [Repository](https://github.com/shchilkin/ui-colors)
+- [**Soft UI**](https://soft-ui.vercel.app/#FAFAFA) - 🚧 WIP: Open-source Design Tool for creating neumorphic css shadows [Repository](https://github.com/shchilkin/soft-ui)
 - [**Portfolio Website**](https://shchilkin.design) - Clean, modern software engineer portfolio website
 - [**Color Processing Library**](https://github.com/shchilkin/color-processing-library) - 📦 Zero dependency library for color processing written in javascript. Available at [NPM](https://www.npmjs.com/package/color-processing-library).
 
