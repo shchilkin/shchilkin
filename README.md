@@ -10,7 +10,7 @@ I'm a Junior Software Engineer at [Dream Broker Oy](https://dreambroker.com), wh
     - Collaborating with the team to design and implement new features.
     - Writing clean, maintainable, and efficient code.
 - **Technologies** I use for development: Jira, Insomnia HTTP Client, Git, VS Code.
-    - **Web development**: TypeScript, Node.js, React, Next.js, SWR, xState, Jest, MUI, Tailwind CSS, ESLint. 
+    - **Web development**: TypeScript, Node.js, React, Next.js, SWR, xState, Jest, MUI, Tailwind CSS, ESLint, Prettier. 
     - **Android development**: Kotlin, Jetpack Compose, Dagger Hilt, Room, Retrofit, MVVM, Kotlin Coroutines.
 
 
