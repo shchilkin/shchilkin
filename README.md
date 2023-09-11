@@ -2,18 +2,15 @@
 
 ### About me
 
-I'm a Junior Software Engineer at [Dream Broker Oy](https://dreambroker.com), where I work on building and maintaining the [#One](https://dreambroker.com/one/) web and android clients. I'm passionate about web development, open-source software, and UI design.
+I'm a Frontend Developer at [Schibsted Finland](https://schibsted.com/). I'm passionate about web development, open-source software, and UI design.
 
 #### What I'm working on 👨‍💻
-- As a Junior Software Engineer at Dream Broker Oy, my main responsibilities include: 
-    - Developing new features and maintaining existing features for the #One web and android clients.
+- As a Frontend Developer at Schibsted Finland, my main responsibilities include: 
+    - Developing new features and maintaining existing features.
     - Collaborating with the team to design and implement new features.
     - Writing clean, maintainable, and efficient code.
 - **Technologies** I use for development: Jira, Insomnia HTTP Client, Git, VS Code.
     - **Web development**: TypeScript, Node.js, React, Next.js, SWR, xState, Redux, Jest, MUI, Tailwind CSS, ESLint, Prettier. 
-    - **Android development**: Kotlin, Jetpack Compose, Dagger Hilt, Room, Retrofit, okhttp, MVVM, Kotlin Coroutines, Glide.
-
-
 
 #### What I'm learning 📖 
 - [Blender Basics](https://smirnov.school/bb/) Course by [Smirnov School](https://smirnov.school).
