@@ -17,9 +17,6 @@ I'm a Frontend Developer at [Schibsted Finland](https://schibsted.com/). I'm pas
 
 #### What I want to learn next 👨‍🎓
 - Revise React knowledge and learn advanced stuff with [Epic React](https://epicreact.dev/) course.
-- Study advanced features of Next.js (server-side part) in order to improve my UI Colors Project.
-- end-to-end testing with [Cypress](https://www.cypress.io)
-- [Storybook](https://storybook.js.org) for developing and testing UI components in isolation
 - WebGL and Three.js [course](https://threejs-journey.com) for creating 3D websites. 
 - [basic](https://frontendmasters.com/courses/canvas-webgl/) and [advanced](https://frontendmasters.com/courses/webgl-shaders/) creative coding with canvas & WebGL courses.
 
