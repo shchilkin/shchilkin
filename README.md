@@ -13,9 +13,10 @@ I'm a Frontend Developer at [Schibsted Finland](https://schibsted.com/). I'm pas
     - **Web development**: TypeScript, Node.js, React, Next.js, SWR, xState, Redux, Jest, MUI, Tailwind CSS, ESLint, Prettier. 
 
 #### What I'm learning 📖 
-- [Blender Basics](https://smirnov.school/bb/) Course by [Smirnov School](https://smirnov.school).
+- Micro frontends with [Podium](https://podium-lib.io/)
 
 #### What I want to learn next 👨‍🎓
+- Revise React knowledge and learn advanced stuff with [Epic React](https://epicreact.dev/) course.
   - Study advanced features of Next.js (server-side part) in order to improve my UI Colors Project.
   - end-to-end testing with [Cypress](https://www.cypress.io)
   - [Storybook](https://storybook.js.org) for developing and testing UI components in isolation
