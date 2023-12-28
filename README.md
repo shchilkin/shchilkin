@@ -2,7 +2,7 @@
 
 ### About me
 
-I'm a Frontend Developer at [Schibsted Finland](https://schibsted.com/). I'm passionate about web development, open-source software, and UI design.
+I'm a Frontend Developer working on [Nordic Marketplaces](https://schibsted.com/about/we-are-schibsted/nordic-marketplaces/) at [Schibsted Finland](https://schibsted.com/). I'm passionate about web development, open-source software, and UI design.
 
 #### What I'm working on 👨‍💻
 - As a Frontend Developer at Schibsted Finland, my main responsibilities include: 
