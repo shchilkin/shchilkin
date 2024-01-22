@@ -13,10 +13,9 @@ I'm a Frontend Developer working on [Nordic Marketplaces](https://schibsted.com/
     - **Web development**: TypeScript, Node.js, React, Next.js, SWR, xState, Redux, Jest, MUI, Tailwind CSS, ESLint, Prettier. 
 
 #### What I'm learning 📖 
-- Micro frontends with [Podium](https://podium-lib.io/)
-
-#### What I want to learn next 👨‍🎓
 - Revise React knowledge and learn advanced stuff with [Epic React](https://epicreact.dev/) course.
+  
+#### What I want to learn next 👨‍🎓
 - WebGL and Three.js [course](https://threejs-journey.com) for creating 3D websites. 
 - [basic](https://frontendmasters.com/courses/canvas-webgl/) and [advanced](https://frontendmasters.com/courses/webgl-shaders/) creative coding with canvas & WebGL courses.
 
