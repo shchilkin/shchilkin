@@ -49,10 +49,10 @@ I'm a Frontend Developer working on [Nordic Marketplaces](https://schibsted.com/
 ### Social Links:
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/aleksandrshchilkin">
+  <a href="https://www.linkedin.com/in/shchilkin">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://dribbble.com/AleksandrShchilkin">
+  <a href="https://dribbble.com/shchilkin">
     <img src="https://img.shields.io/badge/Dribbble-ea4c89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble Badge"/>
   </a>
   <a href="https://www.behance.net/AleksandrShchilkin">
