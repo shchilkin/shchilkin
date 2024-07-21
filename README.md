@@ -21,7 +21,7 @@ I'm a Frontend Developer working on [Nordic Marketplaces](https://schibsted.com/
 
 #### How to reach me 📫 
 - Email: `shchilkin@gmail.com`
-- LinkedIn: [https://www.linkedin.com/in/aleksandrshchilkin](https://www.linkedin.com/in/aleksandrshchilkin)
+- LinkedIn: [https://www.linkedin.com/in/aleksandrshchilkin](https://www.linkedin.com/in/shchilkin)
 
 
 ### Personal projects:
