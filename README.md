@@ -13,7 +13,7 @@ I'm a Frontend Developer working on **Nordic Marketplaces** at [Schibsted Finlan
     - **Web development**: TypeScript, Node.js, React, Next.js, SWR, xState, Redux, Jest, MUI, Tailwind CSS, ESLint, Prettier. 
 
 #### What I'm learning 📖 
-- Revise React knowledge and learn advanced stuff with [Epic React](https://epicreact.dev/) course.
+- Learing `AI Engineering Path` on Scrimba
   
 #### What I want to learn next 👨‍🎓
 - WebGL and Three.js [course](https://threejs-journey.com) for creating 3D websites. 
