@@ -35,6 +35,7 @@ I'm a Frontend Developer working on **Nordic Marketplaces** at [Vend](https://ve
 ### Course work: 
 #### 2025
 - [**PollyGlot**](https://nordic-pollyglot.netlify.app/) - Solo project for the Intro to AI Engineering chapter from [The AI Engineer Path](https://scrimba.com/the-ai-engineer-path-c02v) on Scrimba.
+- [**PopChoice**](https://pop-choice-beige.vercel.app/) - Solo project for the Embeddings and Vector Databases chapter from [The AI Engineer Path](https://scrimba.com/the-ai-engineer-path-c02v) on Scrimba.
 #### 2022
 - [**Spotify Clone**](https://frontend-masters-nextjs-fullstack.vercel.app/signin) - A fullstack web application built with Typescript, React, Next.js, Prisma ORM, Postgresql. Created during Frontend Masters [course](https://frontendmasters.com/courses/fullstack-app-next/).❗️Note: App credentials are available upon request.
 #### 2021
