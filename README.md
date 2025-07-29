@@ -13,7 +13,7 @@ I'm a Frontend Developer working on **Nordic Marketplaces** at [Vend](https://ve
     - **Web development**: TypeScript, Node.js, React, Next.js, SWR, xState, Redux, Jest, MUI, Tailwind CSS, ESLint, Prettier. 
 
 #### What I'm learning 📖 
-- Learing `[3D Cars: Inside and Out](https://cgmasters.com/3d-cars-inside-and-out-in-blender/)` at CG Masters
+- Learing [3D Cars: Inside and Out](https://cgmasters.com/3d-cars-inside-and-out-in-blender/) at CG Masters
   
 #### What I want to learn next 👨‍🎓
 - WebGL and Three.js [course](https://threejs-journey.com) for creating 3D websites. 
