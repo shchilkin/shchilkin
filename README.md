@@ -49,7 +49,7 @@ I'm a Frontend Developer working on **Nordic Marketplaces** at [Vend](https://ve
 
 #### 2023
 - [**Delivery Fee Calculator**](https://wolt-2023-internship-assignment.vercel.app) ([repo](https://github.com/shchilkin/wolt-2023-internship-assignment)) – A frontend application for calculating delivery price using provided specifications. Done as a pre-assignment for summer 2023 Wolt engineering internship. 
-- **Birdnest** ([repo](https://github.com/shchilkin/reactor-birdnest)) – A fullstack web application, which displays information about pilots who breach no drone area. Done as a pre-assignment for Reaktor 2023 summer engineering internship. 
+- **Birdnest** ([repo](https://github.com/shchilkin/reaktor-birdnest)) – A fullstack web application, which displays information about pilots who breach no drone area. Done as a pre-assignment for Reaktor 2023 summer engineering internship. 
 
 #### 2021
 - [**Tic-tac-toe**](https://shchilkin.github.io/tic-tac-toe/) ([repo](https://github.com/shchilkin/tic-tac-toe)) – Tic-tac-toe game implementation done with TypeScript and React. Done as a coding assignment for the Mipro software development internship.
