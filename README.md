@@ -28,7 +28,7 @@ I'm a Frontend Developer working on **Nordic Marketplaces** at [Vend](https://ve
 
 - [**UI Colors**](https://ui-colors-eight.vercel.app/#50ae6f) - Generate color palette from a single color. | [Repository](https://github.com/shchilkin/ui-colors)
 - [**Soft UI**](https://soft-ui.vercel.app/#FAFAFA) - Open-source Design Tool for creating neumorphic css shadows. | [Repository](https://github.com/shchilkin/soft-ui)
-- [**Portfolio Website**]([https://shchilkin.design](https://portfolio-v2-oaoshwf51-shchilkin.vercel.app)) - Clean, modern software engineer portfolio website
+- [**Portfolio Website**](https://portfolio-v2-oaoshwf51-shchilkin.vercel.app) - Clean, modern software engineer portfolio website
 - [**Color Processing Library**](https://github.com/shchilkin/color-processing-library) - 📦 Zero dependency library for color processing written in javascript. Available at [NPM](https://www.npmjs.com/package/color-processing-library).
 
 
