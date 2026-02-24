@@ -2,7 +2,7 @@
 
 ### About me
 
-I'm a Frontend Developer working on **Nordic Marketplaces** at [Vend](https://vend.com/). I'm passionate about web development, open-source software, and UI design.
+I'm a Frontend Developer who is passionate about web development, open-source software, and UI design.
 
 #### What I'm working on 👨‍💻
 - As a Frontend Developer at Vend, my main responsibilities include: 
