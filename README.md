@@ -4,14 +4,6 @@
 
 I'm a Frontend Developer who is passionate about web development, open-source software, and UI design.
 
-#### What I'm working on 👨‍💻
-- As a Frontend Developer at Vend, my main responsibilities include: 
-    - Developing new features and maintaining existing features.
-    - Collaborating with the team to design and implement new features.
-    - Writing clean, maintainable, and efficient code.
-- **Technologies** I use for development: Jira, Insomnia HTTP Client, Git, VS Code.
-    - **Web development**: TypeScript, Node.js, React, Next.js, SWR, xState, Redux, Jest, MUI, Tailwind CSS, ESLint, Prettier. 
-
 #### What I'm learning 📖 
 - Learning [Backend Development (Python & Go)](https://www.boot.dev/tracks/backend-python-golang) on boot.dev
   
