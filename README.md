@@ -1,66 +1,73 @@
-## Hi there 👋, my name is Aleksandr
+## Hi, I'm Aleksandr 👋
 
-### About me
+Frontend-focused software developer building interactive web apps, AI-powered tools, creative coding projects, and polished user interfaces.
 
-I'm a Frontend Developer who is passionate about web development, open-source software, and UI design.
+### Currently building
 
-#### What I'm learning 📖 
-- Learning [Backend Development (Python & Go)](https://www.boot.dev/tracks/backend-python-golang) on boot.dev
-  
-#### What I want to learn next 👨‍🎓
-- WebGL and Three.js [course](https://threejs-journey.com) for creating 3D websites. 
-- [basic](https://frontendmasters.com/courses/canvas-webgl/) and [advanced](https://frontendmasters.com/courses/webgl-shaders/) creative coding with canvas & WebGL courses.
+- [**PopChoice**](https://pop-choice.shchilkin.dev/) — personalized movie recommendations for solo users and groups using OpenAI embeddings, pgvector, and TMDB hybrid search. | [repo](https://github.com/shchilkin/PopChoice)
+- [**artifact**](https://artifact.shchilkin.dev/) — browser-based glitch album cover generator with emoji canvas composition, WebGL shader effects, seeded randomness, and high-resolution export. | [repo](https://github.com/shchilkin/artifact)
 
-#### How to reach me 📫 
-- Email: `shchilkin@gmail.com`
-- LinkedIn: [https://www.linkedin.com/in/shchilkin](https://www.linkedin.com/in/shchilkin)
+### Tech I work with
 
+- **Frontend:** TypeScript, React, Next.js, CSS, UI design
+- **Backend / data:** Python, Go, PostgreSQL, Prisma, pgvector
+- **AI:** OpenAI APIs, embeddings, vector search
+- **Creative coding:** Canvas, WebGL, shaders, Three.js
 
-### Personal projects:
+### Projects
 
-- [**UI Colors**](https://ui-colors-eight.vercel.app/#50ae6f) - Generate color palette from a single color. | [Repository](https://github.com/shchilkin/ui-colors)
-- [**Soft UI**](https://soft-ui.vercel.app/#FAFAFA) - Open-source Design Tool for creating neumorphic css shadows. | [Repository](https://github.com/shchilkin/soft-ui)
-- [**Portfolio Website**](https://v2.shchilkin.dev) - Clean, modern software engineer portfolio website
-- [**Color Processing Library**](https://github.com/shchilkin/color-processing-library) - 📦 Zero dependency library for color processing written in javascript. Available at [NPM](https://www.npmjs.com/package/color-processing-library).
+- [**UI Colors**](https://ui-colors-eight.vercel.app/#50ae6f) — generate color palette from a single color. | [repo](https://github.com/shchilkin/ui-colors)
+- [**Soft UI**](https://soft-ui.vercel.app/#FAFAFA) — open-source design tool for creating neumorphic CSS shadows. | [repo](https://github.com/shchilkin/soft-ui)
+- [**Portfolio Website**](https://v2.shchilkin.dev) — clean, modern software engineer portfolio website.
+- [**Color Processing Library**](https://github.com/shchilkin/color-processing-library) — zero-dependency JavaScript color processing library. Available at [NPM](https://www.npmjs.com/package/color-processing-library).
 
+### Course work
 
-### Course work: 
 #### 2025
-- [**PollyGlot**](https://nordic-pollyglot.netlify.app/) - Solo project for the **Intro to AI Engineering** chapter from [The AI Engineer Path](https://scrimba.com/the-ai-engineer-path-c02v) on Scrimba.
-- [**PopChoice**](https://pop-choice.shchilkin.dev) - Solo project for the **Embeddings and Vector Databases** chapter from [The AI Engineer Path](https://scrimba.com/the-ai-engineer-path-c02v) on Scrimba.
+- [**PollyGlot**](https://nordic-pollyglot.netlify.app/) — solo project for the **Intro to AI Engineering** chapter from [The AI Engineer Path](https://scrimba.com/the-ai-engineer-path-c02v) on Scrimba.
+- [**PopChoice**](https://pop-choice.shchilkin.dev) — solo project for the **Embeddings and Vector Databases** chapter from [The AI Engineer Path](https://scrimba.com/the-ai-engineer-path-c02v) on Scrimba.
+
+<details>
+<summary>Older coursework (2021–2022)</summary>
+
 #### 2022
-- [**Spotify Clone**](https://frontend-masters-nextjs-fullstack.vercel.app/signin) - A fullstack web application built with Typescript, React, Next.js, Prisma ORM, Postgresql. Created during Frontend Masters [course](https://frontendmasters.com/courses/fullstack-app-next/).❗️Note: App credentials are available upon request.
-#### 2021
-- [**Dinosaurs**](https://shchilkin.github.io/dinosaurs/) - Object-oriented programming project, created to display user-generated infographic. Was done as part of the Udacity Intermediate Javascript [Nanodegree](https://www.udacity.com/course/intermediate-javascript-nanodegree--nd032).
+- [**Spotify Clone**](https://frontend-masters-nextjs-fullstack.vercel.app/signin) — fullstack web app with TypeScript, React, Next.js, Prisma, PostgreSQL. Built during a Frontend Masters [course](https://frontendmasters.com/courses/fullstack-app-next/). ❗️ Credentials available upon request.
 
-### Test assignments:
+#### 2021
+- [**Dinosaurs**](https://shchilkin.github.io/dinosaurs/) — OOP project for a user-generated infographic. Built as part of the Udacity Intermediate JavaScript [Nanodegree](https://www.udacity.com/course/intermediate-javascript-nanodegree--nd032).
+
+</details>
+
+### Test assignments
+
 #### 2026
-- [**Supermarket Checkout System**](https://supermarket-ashen-ten.vercel.app) ([repo](https://github.com/shchilkin/supermarket)) – A shopping cart application with automatic discount calculation for special offers. Done as a coding assignment for Haiilo Frontend Engineer position. 
+- [**Supermarket Checkout System**](https://supermarket.shchilkin.dev) ([repo](https://github.com/shchilkin/supermarket)) — shopping cart with automatic discount calculation for special offers. Coding assignment for Haiilo Frontend Engineer position.
+
 #### 2025
-- [**Activity Finder**](https://activity-finder-sigma.vercel.app) ([repo](https://github.com/shchilkin/activity-finder)) – A web app for browsing and exploring community activities with participant management. Done as a front-end take-home assignment for Illusian. 
+- [**Activity Finder**](https://activity-finder-sigma.vercel.app) ([repo](https://github.com/shchilkin/activity-finder)) — web app for browsing and exploring community activities with participant management. Take-home assignment for Illusian.
+
+<details>
+<summary>Older test assignments (2021–2023)</summary>
 
 #### 2023
-- [**Delivery Fee Calculator**](https://wolt-2023-internship-assignment.vercel.app) ([repo](https://github.com/shchilkin/wolt-2023-internship-assignment)) – A frontend application for calculating delivery price using provided specifications. Done as a pre-assignment for summer 2023 Wolt engineering internship. 
-- **Birdnest** ([repo](https://github.com/shchilkin/reaktor-birdnest)) – A fullstack web application, which displays information about pilots who breach no drone area. Done as a pre-assignment for Reaktor 2023 summer engineering internship. 
+- [**Delivery Fee Calculator**](https://wolt-2023-internship-assignment.vercel.app) ([repo](https://github.com/shchilkin/wolt-2023-internship-assignment)) — frontend app for calculating delivery price. Pre-assignment for Wolt summer 2023 engineering internship.
+- **Birdnest** ([repo](https://github.com/shchilkin/reaktor-birdnest)) — fullstack app displaying pilots who breach a no-drone zone. Pre-assignment for Reaktor 2023 summer engineering internship.
 
 #### 2021
-- [**Tic-tac-toe**](https://shchilkin.github.io/tic-tac-toe/) ([repo](https://github.com/shchilkin/tic-tac-toe)) – Tic-tac-toe game implementation done with TypeScript and React. Done as a coding assignment for the Mipro software development internship.
+- [**Tic-tac-toe**](https://shchilkin.github.io/tic-tac-toe/) ([repo](https://github.com/shchilkin/tic-tac-toe)) — tic-tac-toe game with TypeScript and React. Coding assignment for the Mipro software development internship.
 
+</details>
 
-### Social Links:
+### Learning / exploring
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/shchilkin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://dribbble.com/shchilkin">
-    <img src="https://img.shields.io/badge/Dribbble-ea4c89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble Badge"/>
-  </a>
-  <a href="https://www.behance.net/AleksandrShchilkin">
-    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
-  </a>
-</div>
+- Backend development with Python and Go
+- WebGL, shaders, and Three.js
+- AI-powered product experiences
 
-<!-- ## Summary
+### Contact
 
-I am a Junior Software Engineer with **experience in web and android development**. I have a passion for **building web applications**, **creating open-source software**, and **crafting UI design concepts**. My experience includes working on web projects using technologies such as **JavaScript, TypeScript, React, Next.js**, and more. And for android development, I have experience with **Kotlin, Jetpack Compose, Dagger Hilt, Room, Retrofit, MVVM, and Kotlin Coroutines**. I have strong skills in **problem solving, troubleshooting and debugging**, and a track record of **delivering high-quality and efficient code**. -->
+- Email: `shchilkin@gmail.com`
+- LinkedIn: [linkedin.com/in/shchilkin](https://www.linkedin.com/in/shchilkin)
+- Portfolio: [v2.shchilkin.dev](https://v2.shchilkin.dev)
+- Dribbble: [dribbble.com/shchilkin](https://dribbble.com/shchilkin)
+- Behance: [behance.net/AleksandrShchilkin](https://www.behance.net/AleksandrShchilkin)
