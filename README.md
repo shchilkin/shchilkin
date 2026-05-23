@@ -68,6 +68,6 @@ Frontend-focused software developer building interactive web apps, AI-powered to
 
 - Email: `shchilkin@gmail.com`
 - LinkedIn: [linkedin.com/in/shchilkin](https://www.linkedin.com/in/shchilkin)
-- Portfolio: [v2.shchilkin.dev](https://v2.shchilkin.dev)
+- Portfolio: [shchilkin.dev](https://shchilkin.dev)
 - Dribbble: [dribbble.com/shchilkin](https://dribbble.com/shchilkin)
 - Behance: [behance.net/AleksandrShchilkin](https://www.behance.net/AleksandrShchilkin)
