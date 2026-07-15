@@ -8,7 +8,6 @@ Full-stack software developer and design engineer with a strong frontend focus, 
 - [**Portfolio v3 / Design Lab**](https://shchilkin.dev) *(private source)* — in-progress public workbench for product case studies, interactive studies, 3D models, and inspectable UI systems.
 - **Artifact Camera** *(private repository)* — Swift/iOS camera for building custom virtual cameras with real-time Core Image and Metal effects.
 - **Personal Infrastructure** *(private repository)* — self-hosted observability stack for project health, logs, metrics, traces, alerts, and uptime.
-- **Pocket Universe** *(private repository)* — data-driven character-universe CMS and editorial portfolio exploring how fictional users shape product behavior and interface states.
 
 ### Featured products
 
