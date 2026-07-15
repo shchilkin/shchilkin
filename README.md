@@ -5,6 +5,7 @@ Full-stack software developer building AI-powered products, interactive web expe
 ### Currently building
 
 - **Character Generator** — private AI workspace for building consistent characters and objects from structured profiles, reference assets, reusable controls, and approval-driven generation history.
+- [**Portfolio v3 / Design Lab**](https://shchilkin.dev) — in-progress public workbench for product case studies, interactive studies, 3D models, and inspectable UI systems.
 - [**PopChoice**](https://pop-choice.shchilkin.dev/) — personalized movie recommendations for solo users and groups using OpenAI embeddings, pgvector, and TMDB hybrid search. | [repo](https://github.com/shchilkin/PopChoice)
 - [**artifact**](https://artifact.shchilkin.dev/) — browser-based glitch album cover generator with emoji canvas composition, WebGL shader effects, seeded randomness, and high-resolution export. | [repo](https://github.com/shchilkin/artifact)
 
@@ -20,7 +21,7 @@ Full-stack software developer building AI-powered products, interactive web expe
 
 - [**UI Colors**](https://ui-colors-eight.vercel.app/#50ae6f) — generate color palette from a single color. | [repo](https://github.com/shchilkin/ui-colors)
 - [**Soft UI**](https://soft-ui.vercel.app/#FAFAFA) — open-source design tool for creating neumorphic CSS shadows. | [repo](https://github.com/shchilkin/soft-ui)
-- [**Portfolio / Design Lab**](https://shchilkin.dev) — public workbench for product case studies, interactive studies, 3D models, and inspectable UI systems.
+- [**Portfolio v2**](https://v2.shchilkin.dev) — previous version of my software engineer portfolio website.
 - [**Color Processing Library**](https://github.com/shchilkin/color-processing-library) — zero-dependency JavaScript color processing library. Available at [NPM](https://www.npmjs.com/package/color-processing-library).
 
 ### Course work
