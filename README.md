@@ -1,24 +1,26 @@
 ## Hi, I'm Aleksandr 👋
 
-Frontend-focused software developer building interactive web apps, AI-powered tools, creative coding projects, and polished user interfaces.
+Full-stack software developer building AI-powered products, interactive web experiences, and creative coding systems — from polished interfaces to data, storage, queues, and deployment.
 
 ### Currently building
 
+- **Character Generator** — private AI workspace for building consistent characters and objects from structured profiles, reference assets, reusable controls, and approval-driven generation history.
 - [**PopChoice**](https://pop-choice.shchilkin.dev/) — personalized movie recommendations for solo users and groups using OpenAI embeddings, pgvector, and TMDB hybrid search. | [repo](https://github.com/shchilkin/PopChoice)
 - [**artifact**](https://artifact.shchilkin.dev/) — browser-based glitch album cover generator with emoji canvas composition, WebGL shader effects, seeded randomness, and high-resolution export. | [repo](https://github.com/shchilkin/artifact)
 
 ### Tech I work with
 
-- **Frontend:** TypeScript, React, Next.js, CSS, UI design
-- **Backend / data:** Python, Go, PostgreSQL, Prisma, pgvector
-- **AI:** OpenAI APIs, embeddings, vector search
-- **Creative coding:** Canvas, WebGL, shaders, Three.js
+- **Frontend / product:** TypeScript, React, Astro, TanStack Start, Tailwind CSS, UI and interaction design
+- **Backend / data:** Node.js, PostgreSQL, Drizzle ORM, Prisma, Redis, BullMQ, Better Auth
+- **AI:** OpenAI and xAI APIs, embeddings, pgvector, image generation and review workflows
+- **Creative coding:** Canvas, WebGL, shaders, Three.js, Rapier
+- **Platform / quality:** Docker, Deno, Cloudflare R2, Netlify, Coolify, GitHub Actions, Playwright, Vitest
 
 ### Projects
 
 - [**UI Colors**](https://ui-colors-eight.vercel.app/#50ae6f) — generate color palette from a single color. | [repo](https://github.com/shchilkin/ui-colors)
 - [**Soft UI**](https://soft-ui.vercel.app/#FAFAFA) — open-source design tool for creating neumorphic CSS shadows. | [repo](https://github.com/shchilkin/soft-ui)
-- [**Portfolio Website**](https://v2.shchilkin.dev) — clean, modern software engineer portfolio website.
+- [**Portfolio / Design Lab**](https://shchilkin.dev) — public workbench for product case studies, interactive studies, 3D models, and inspectable UI systems.
 - [**Color Processing Library**](https://github.com/shchilkin/color-processing-library) — zero-dependency JavaScript color processing library. Available at [NPM](https://www.npmjs.com/package/color-processing-library).
 
 ### Course work
@@ -41,6 +43,7 @@ Frontend-focused software developer building interactive web apps, AI-powered to
 ### Test assignments
 
 #### 2026
+- [**Finnplay Game Catalog**](https://finnplay-frontend-task.shchilkin.dev) ([repo](https://github.com/shchilkin/finnplay-frontend-task)) — full-stack React and Node.js app for browsing, filtering, and sorting games. Frontend coding assignment for Finnplay.
 - [**Supermarket Checkout System**](https://supermarket.shchilkin.dev) ([repo](https://github.com/shchilkin/supermarket)) — shopping cart with automatic discount calculation for special offers. Coding assignment for Haiilo Frontend Engineer position.
 
 #### 2025
@@ -60,9 +63,10 @@ Frontend-focused software developer building interactive web apps, AI-powered to
 
 ### Learning / exploring
 
-- Backend development with Python and Go
-- WebGL, shaders, and Three.js
-- AI-powered product experiences
+- Human-in-the-loop AI generation workflows and provider governance
+- Durable background processing, private media pipelines, and operational tooling
+- Reusable Canvas, WebGL, and Three.js runtimes for parameterized creative systems
+- 3D, physics, motion, and accessible interaction design
 
 ### Contact
 
