@@ -11,7 +11,7 @@ Full-stack software developer building AI-powered products, interactive web expe
 
 ### Tech I work with
 
-- **Frontend / product:** TypeScript, React, Astro, TanStack Start, Tailwind CSS, UI and interaction design
+- **Frontend / product:** TypeScript, React, Next.js, Astro, TanStack Start, Tailwind CSS, UI and interaction design
 - **Backend / data:** Node.js, PostgreSQL, Drizzle ORM, Prisma, Redis, BullMQ, Better Auth
 - **AI:** OpenAI and xAI APIs, embeddings, pgvector, image generation and review workflows
 - **Creative coding:** Canvas, WebGL, shaders, Three.js, Rapier
