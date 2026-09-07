@@ -1,98 +1,65 @@
 ## Hi, I'm Aleksandr 👋
 
-Full-stack software developer and design engineer with a strong frontend focus, building AI products, creative tools, and interactive web systems.
+I'm a software engineer based in Finland, currently working as a Frontend Engineer at Finnplay. Previously, I worked at Schibsted/Vend and Dream Broker.
 
-### Current work
+At Schibsted/Vend, I was the sole frontend developer for seven applications across four Nordic marketplaces, covering listing creation and seller statistics.
 
-- **Character Generator** *(private repository)* — full-stack AI workspace for consistent characters and objects, combining structured profiles, reference assets, reusable controls, asynchronous generation, and auditable review.
-- [**Portfolio v3 / Design Lab**](https://shchilkin.dev) *(private source)* — in-progress public workbench for product case studies, interactive studies, 3D models, and inspectable UI systems.
-- **Artifact Camera** *(private repository)* — Swift/iOS camera for building custom virtual cameras with real-time Core Image and Metal effects.
-- **Personal Infrastructure** *(private repository)* — self-hosted observability stack for project health, logs, metrics, traces, alerts, and uptime.
+Outside work, I build my own apps, design interfaces and make 3D illustrations in Blender. I work mostly with TypeScript, React and Next.js, plus Node.js and PostgreSQL on the backend.
 
-### Featured products
+[Portfolio](https://shchilkin.dev) · [Dribbble](https://dribbble.com/shchilkin) · [LinkedIn](https://www.linkedin.com/in/shchilkin) · [Email](mailto:shchilkin@gmail.com)
 
-- [**Artifact**](https://artifact.shchilkin.dev/) — browser-based generative album-cover studio with layered Canvas/PixiJS rendering, 30+ GPU shader effects, Three.js primitives, node-graph composition, and high-resolution export. | [repo](https://github.com/shchilkin/artifact)
-- [**PopChoice**](https://pop-choice.shchilkin.dev/) — full-stack movie recommendation platform with OpenAI embeddings, pgvector/TMDB retrieval, account movie memory, BullMQ jobs, and operator tooling. | [repo](https://github.com/shchilkin/PopChoice)
-- [**Vantaa Underground**](https://vantaa-underground.com) *(private source)* — official website for the music project, pairing a dark, motion-led identity with an interactive Three.js photo sphere.
+### Projects
 
-### Selected Design Lab
+- [**Artifact**](https://artifact.shchilkin.dev/) *(in development)* — a browser editor for album covers and posters. It combines images, text, shader effects and 3D scenes using layers or a node graph. [Source](https://github.com/shchilkin/artifact)
+- [**PopChoice**](https://pop-choice.shchilkin.dev/) *(in development)* — an app for choosing what to watch, alone or with friends. Each person can add reference films, a mood and things they'd rather avoid. [Source](https://github.com/shchilkin/PopChoice)
+- [**Under Glass**](https://under-glass.shchilkin.dev/) *(v0.1 preview)* — a toolkit for interactive 3D architecture diagrams. The preview maps PopChoice's services, with isometric and top views. [Source](https://github.com/shchilkin/under-glass)
 
-- [**Car Dashboard**](https://shchilkin.dev/design-lab/studies/car-dashboard/) — browser dashboard with drivetrain simulation, procedural engine audio, gamepad input, and component-level documentation.
-- [**Smiley Spheres**](https://shchilkin.dev/design-lab/studies/smiley-spheres/) — Three.js playground for procedural textures, palette generation, and collision-detection benchmarking.
-- [**Dice Sim**](https://shchilkin.dev/design-lab/studies/d6-dice/) — throwable 3D dice simulator with dice-pool notation, procedural face marks, camera modes, and Rapier physics.
-- [**Image to ASCII**](https://shchilkin.github.io/image-to-ascii/) *(private source)* — real-time browser converter for images and video with Canvas rendering, neon controls, PNG export, and WebM recording.
+### Experiments
 
-### Tech I work with
+I keep interactive studies and notes in my [Design Lab](https://shchilkin.dev/design-lab/). A few to try:
 
-- **Frontend / product:** TypeScript, React, Next.js, Astro, TanStack Start, React Router, Tailwind CSS, XState, UI and interaction design
-- **Backend / data:** Node.js, PostgreSQL, pgvector, Redis, BullMQ, Drizzle ORM, Prisma, Better Auth, Zod
-- **AI:** OpenAI and xAI APIs, LangChain, embeddings, vector search, image generation and review workflows
-- **Creative coding:** Canvas, PixiJS, WebGL/GLSL, Three.js, React Flow, Rapier, Motion, Web Audio API
-- **Platform / quality:** Docker, Deno, Cloudflare R2, Netlify, Coolify, GitHub Actions, Storybook, Playwright, Vitest, OpenTelemetry, Prometheus/Grafana
+- [**Car Dashboard**](https://shchilkin.dev/design-lab/studies/car-dashboard/) — a simulated drivetrain and dashboard, with generated engine sounds and gamepad controls.
+- [**Smiley Spheres**](https://shchilkin.dev/design-lab/studies/smiley-spheres/) — a Three.js playground for textures, colour palettes and collision detection.
+- [**Dice Sim**](https://shchilkin.dev/design-lab/studies/d6-dice/) — throwable 3D dice with physics, adjustable dice pools and camera controls.
+
+I've also been modelling Fallout props, including a [Nuka-Cola bottle](https://dribbble.com/shots/27214330-Fallout-Nuka-Cola-Bottle-Design) and a [terminal](https://dribbble.com/shots/27140927-Fallout-Terminal-Screen). These and my UI concepts are on [Dribbble](https://dribbble.com/shchilkin).
+
+### Other projects
+
+[**Vantaa Underground**](https://vantaa-underground.com) is a website I'm building for the music project, with releases, cover art and a 3D photo archive. It's still at an early stage. I also make some of the release artwork.
+
+**Character Generator** is a workspace for generating consistent characters and objects from saved profiles and reference images. Its source is private.
+
+I also maintain my own infrastructure for logging, metrics and uptime monitoring.
 
 <details>
 <summary>Earlier projects and tools</summary>
 
-- [**Portfolio v2**](https://v2.shchilkin.dev) — previous version of my software engineer portfolio website. | [repo](https://github.com/shchilkin/portfolio-v2)
-- [**UI Colors**](https://ui-colors-eight.vercel.app/#50ae6f) — generate color palette from a single color. | [repo](https://github.com/shchilkin/ui-colors)
-- [**Soft UI**](https://soft-ui.vercel.app/#FAFAFA) — open-source design tool for creating neumorphic CSS shadows. | [repo](https://github.com/shchilkin/soft-ui)
-- [**Color Processing Library**](https://github.com/shchilkin/color-processing-library) — zero-dependency JavaScript color processing library. Available on [npm](https://www.npmjs.com/package/color-processing-library).
+- [**UI Colors**](https://ui-colors-eight.vercel.app/#50ae6f) — generate a palette from one colour. [Source](https://github.com/shchilkin/ui-colors)
+- [**Soft UI**](https://soft-ui.vercel.app/#FAFAFA) — a tool for creating neumorphic CSS shadows. [Source](https://github.com/shchilkin/soft-ui)
+- [**Color Processing Library**](https://github.com/shchilkin/color-processing-library) — a JavaScript colour library with no dependencies. Available on [npm](https://www.npmjs.com/package/color-processing-library).
+- [**Portfolio v2**](https://v2.shchilkin.dev) — the previous version of my portfolio. [Source](https://github.com/shchilkin/portfolio-v2)
 
 </details>
 
 <details>
-<summary>Coursework and guided projects</summary>
+<summary>Coding assignments</summary>
 
-#### 2026
-- [**AI Agent**](https://github.com/shchilkin/ai-agent) — Gemini-powered Python CLI agent with sandboxed filesystem and execution tools. Guided project from [Boot.dev](https://www.boot.dev/).
-- [**Asteroids**](https://github.com/shchilkin/Asteroids) — Pygame clone of the classic arcade game with object-oriented game entities and collision handling. Guided project from [Boot.dev](https://www.boot.dev/).
-- [**BookBot**](https://github.com/shchilkin/bookbot) — Python text-analysis tool that reports word counts and character frequencies. Guided project from [Boot.dev](https://www.boot.dev/).
-
-#### 2025
-- [**PollyGlot**](https://nordic-pollyglot.netlify.app/) — solo project for the **Intro to AI Engineering** chapter from [The AI Engineer Path](https://scrimba.com/the-ai-engineer-path-c02v) on Scrimba. | [repo](https://github.com/shchilkin/PollyGlot)
-- [**Travel Agent**](https://travel-agent-vert-one.vercel.app/) *(private source)* — solo project for the **Agents** chapter from The AI Engineer Path on Scrimba.
-
-#### 2022
-- [**Spotify Clone**](https://frontend-masters-nextjs-fullstack.vercel.app/signin) — full-stack web app with TypeScript, React, Next.js, Prisma, and PostgreSQL. Built during a Frontend Masters [course](https://frontendmasters.com/courses/fullstack-app-next/). Credentials available upon request.
-
-#### 2021
-- [**Dinosaurs**](https://shchilkin.github.io/dinosaurs/) — OOP project for a user-generated infographic. Built as part of the Udacity Intermediate JavaScript [Nanodegree](https://www.udacity.com/course/intermediate-javascript-nanodegree--nd032).
+- **2026 · Finnplay:** [Game Catalog](https://finnplay-frontend-task.shchilkin.dev) — browse, filter and sort games. Built with React and Node.js. [Source](https://github.com/shchilkin/finnplay-frontend-task)
+- **2026 · Haiilo:** [Supermarket Checkout](https://supermarket.shchilkin.dev) — a shopping cart that applies special-offer discounts. [Source](https://github.com/shchilkin/supermarket)
+- **2025 · Illusian:** [Activity Finder](https://activity-finder-sigma.vercel.app) — browse community activities and manage participants. [Source](https://github.com/shchilkin/activity-finder)
+- **2023 · Wolt:** [Delivery Fee Calculator](https://wolt-2023-internship-assignment.vercel.app) — calculate a delivery price from the assignment's rules. [Source](https://github.com/shchilkin/wolt-delivery-fee-calculator)
+- **2023 · Reaktor:** [Birdnest](https://github.com/shchilkin/reaktor-birdnest) — track pilots entering a no-drone zone.
+- **2021 · Mipro:** [Tic-tac-toe](https://shchilkin.github.io/tic-tac-toe/) — a game built with TypeScript and React. [Source](https://github.com/shchilkin/tic-tac-toe)
 
 </details>
-
-### Test assignments
-
-#### 2026
-- [**Finnplay Game Catalog**](https://finnplay-frontend-task.shchilkin.dev) ([repo](https://github.com/shchilkin/finnplay-frontend-task)) — full-stack React and Node.js app for browsing, filtering, and sorting games. Frontend coding assignment for Finnplay.
-- [**Supermarket Checkout System**](https://supermarket.shchilkin.dev) ([repo](https://github.com/shchilkin/supermarket)) — shopping cart with automatic discount calculation for special offers. Coding assignment for Haiilo Frontend Engineer position.
-
-#### 2025
-- [**Activity Finder**](https://activity-finder-sigma.vercel.app) ([repo](https://github.com/shchilkin/activity-finder)) — web app for browsing and exploring community activities with participant management. Take-home assignment for Illusian.
 
 <details>
-<summary>Older test assignments (2021–2023)</summary>
+<summary>Coursework</summary>
 
-#### 2023
-- [**Delivery Fee Calculator**](https://wolt-2023-internship-assignment.vercel.app) ([repo](https://github.com/shchilkin/wolt-delivery-fee-calculator)) — frontend app for calculating delivery price. Pre-assignment for Wolt summer 2023 engineering internship.
-- **Birdnest** ([repo](https://github.com/shchilkin/reaktor-birdnest)) — full-stack app displaying pilots who breach a no-drone zone. Pre-assignment for Reaktor 2023 summer engineering internship.
-
-#### 2021
-- [**Tic-tac-toe**](https://shchilkin.github.io/tic-tac-toe/) ([repo](https://github.com/shchilkin/tic-tac-toe)) — tic-tac-toe game with TypeScript and React. Coding assignment for the Mipro software development internship.
+- **2026 · [Boot.dev](https://www.boot.dev/):** [AI Agent](https://github.com/shchilkin/ai-agent), a Python CLI agent using Gemini; [Asteroids](https://github.com/shchilkin/Asteroids), a Pygame clone; and [BookBot](https://github.com/shchilkin/bookbot), a text-analysis tool. Guided projects.
+- **2025 · [Scrimba's AI Engineer Path](https://scrimba.com/the-ai-engineer-path-c02v):** [PollyGlot](https://nordic-pollyglot.netlify.app/) ([source](https://github.com/shchilkin/PollyGlot)) and [Travel Agent](https://travel-agent-vert-one.vercel.app/) (private source). Solo projects for the course.
+- **2022 · [Frontend Masters](https://frontendmasters.com/courses/fullstack-app-next/):** [Spotify Clone](https://frontend-masters-nextjs-fullstack.vercel.app/signin), built with Next.js, Prisma and PostgreSQL. Credentials available on request.
+- **2021 · [Udacity](https://www.udacity.com/course/intermediate-javascript-nanodegree--nd032):** [Dinosaurs](https://shchilkin.github.io/dinosaurs/), an OOP project that creates an infographic from user input.
 
 </details>
-
-### Learning / exploring
-
-- Swift/iOS camera pipelines, Core Image, and Metal
-- Python backend development and AI tooling
-- Reusable rendering runtimes across Canvas, WebGL, Three.js, and native platforms
-- Human-in-the-loop AI generation, provider governance, and evaluation
-- Real-time 3D, physics, audio, motion, and accessible interaction design
-
-### Contact
-
-- Email: [shchilkin@gmail.com](mailto:shchilkin@gmail.com)
-- LinkedIn: [linkedin.com/in/shchilkin](https://www.linkedin.com/in/shchilkin)
-- Portfolio: [shchilkin.dev](https://shchilkin.dev)
-- Dribbble: [dribbble.com/shchilkin](https://dribbble.com/shchilkin)
-- Behance: [behance.net/AleksandrShchilkin](https://www.behance.net/AleksandrShchilkin)
